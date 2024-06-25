@@ -1,0 +1,5 @@
+- https://mode.com/sql-tutorial
+- https://sqlzoo.net/wiki/SQL_Tutorial
+- https://www.codecademy.com/learn/learn-sql
+-   [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) (Free code camp)
+- https://sqlbolt.com/

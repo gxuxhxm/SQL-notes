@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "5df42b16f23d9839",
+    "type": "split",
+    "children": [
+      {
+        "id": "635e3f0f5356415f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f49eef00c5f5dcaf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.4166666666666667
+                }
+              }
+            }
+          },
+          {
+            "id": "113320bf46d51ddf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "664a4b8e511f3e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "de19942edd8d56f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cac98206f7f175e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb993128a212f29b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "914b68795c812f4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b5ca6d9900e7db0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ddc7eff2ff753fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eab4e2bde8a6788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a56a07e50bda2689",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e58643dffc865b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6eaf16a596a0c12e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "113320bf46d51ddf",
+  "lastOpenFiles": [
+    "ar/Untitled.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "ar",
+    "NOTES/SQL BASICS/6. LIKE.md",
+    "NOTES/SQL BASICS/0 . INTRO.md",
+    "Table.md",
+    "NOTES/SQL BASICS",
+    "NOTES/SQL BASICS/5. Logical Operators.md",
+    "RESOURCES.md",
+    "NOTES/SQL BASICS/4. Comparison Operators and AS.md",
+    "NOTES/SQL BASICS/3. WHERE.md",
+    "NOTES/SQL BASICS/2. LIMIT.md",
+    "NOTES/SQL BASICS/1 . SELECT and FROM.md",
+    "SELECT and FROM.md",
+    "Resources",
+    "NOTES"
+  ]
+}
